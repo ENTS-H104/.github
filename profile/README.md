@@ -12,7 +12,7 @@
 #### Members
 | Name                             | ID           | Path  | Role           | Kampus                               | Github                                                     |
 | -------------------------------- |:------------:|:-----:| :------------: | :----------------------------------: |:----------------------------------------------------------:|
-| LUQMANUL HAKIEM                  | A562D4KY4030 | MD    | Project Manager| Universitas Islam Madura             | [hyelqi] (https://github.com/luqmanulhakiem/luqmanulhakiem) |
+| LUQMANUL HAKIEM                  | A562D4KY4030 | MD    | Project Manager| Universitas Islam Madura             | [hyelqi](https://github.com/luqmanulhakiem/luqmanulhakiem) |
 | Muhammad Daffa` Ashdaqfillah     | A004D4KY3753 | MD    | Member         | Institut Teknologi Sepuluh Nopember  | [daf2a](https://github.com/daf2a)                                                          |
 | Nadya Zuhria Amana               | M004D4KX2486 | ML    | Contact Person | Institut Teknologi Sepuluh Nopember  | [nadyaza](https://github.com/nadyaza)                                                           |
 | Aprilia Dela Safitri             | M004D4KX2085 | ML    | Member         | Institut Teknologi Sepuluh Nopember  | [apriliadesa](https://github.com/apriliadesa)              |
